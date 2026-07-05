@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(255, 133, 133);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.butCooler {
+    font-size: 24px;
+}
+
+
+#id2 {
+    color: rgb(55, 55, 255);
+    font-size: 38px;
+}
+
+#id4 {
+    background-color: rgb(12, 226, 12);
+    font-size: 24px;
+}
